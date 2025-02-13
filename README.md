@@ -5,10 +5,10 @@ The *games_sales.ipynb* notebook contains the complete code for designing data v
 
 ## Relevant results
 **Key Time Periods:**
+![image](https://github.com/user-attachments/assets/22e3d24d-a19e-428e-a617-2c7e0978f829)
 - Significant increase in the number of games released begins in 2002.
-![image](https://github.com/user-attachments/assets/da5d536a-dd34-425c-b98b-083c5bfa00b1)
 
-  
+  ![image](https://github.com/user-attachments/assets/f04c0523-efce-4ae3-ba3b-b94fe72f8f91)
 - 2005 marks the start of a relevant period for modeling data toward 2017, with platforms still active in 2015 emerging during this time.
   
 **Platform Popularity:**
