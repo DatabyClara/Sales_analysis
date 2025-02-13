@@ -1,7 +1,7 @@
 # Project Description:
 The goal of this project is to identify patterns in historical video game sales data to understand the factors that drive a game's success. With this information, it will be possible to predict which games are likely to succeed in the future and plan more targeted advertising campaigns. The 2016 data will be used to make forecasts for 2017, focusing on understanding which game attributes, such as genre, reviews, and other factors, directly impact sales. This will help in making data-driven decisions and optimizing marketing strategies.
 
-The *games_sales.ipynb* notebook contains the complete code for designing data visualizations and conducting further analyses.
+The *games_sales.ipynb* notebook includes the full code for data cleaning and wrangling, creating data visualizations, and performing additional analyses.
 
 ## Relevant results
 **Key Time Periods:**
