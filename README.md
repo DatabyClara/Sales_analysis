@@ -1,3 +1,4 @@
-# sales-data
+# Historical Sales Data 
 
-The goal of this project is to identify patterns in video game sales data to understand the factors that drive a game's success. With this information, it will be possible to predict which games are likely to succeed in the future and plan more targeted advertising campaigns
+Project Description:
+The goal of this project is to identify patterns in video game sales data to understand the factors that drive a game's success. With this information, it will be possible to predict which games are likely to succeed in the future and plan more targeted advertising campaigns. The 2016 data will be used to make forecasts for 2017, focusing on understanding which game attributes, such as genre, reviews, and other factors, directly impact sales. This will help in making data-driven decisions and optimizing marketing strategies.
