@@ -1,3 +1,4 @@
+# Video Game Sales Analysis
 The *games_sales.ipynb* notebook provided above contains the complete code for data cleaning and wrangling, creating visualizations, and conducting further analyses.
 
 ### What was done:
@@ -19,7 +20,7 @@ To determine which game attributes (e.g., genre, platform, review scores) most s
 ### Tools & Languages Used:
 - Languages: Python
 - Environment: Jupyter Notebook
-- Libraries: Pandas, Matplotlib, Seaborn, NumPy
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn and  scipy.stats
 
 ### Possible Improvements & Next Steps:
 
