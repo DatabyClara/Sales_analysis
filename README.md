@@ -1,37 +1,29 @@
-# Project Description:
-The goal of this project is to identify patterns in historical video game sales data to understand the factors that drive a game's success. With this information, it will be possible to predict which games are likely to succeed in the future and plan more targeted advertising campaigns. The 2016 data will be used to make forecasts for 2017, focusing on understanding which game attributes, such as genre, reviews, and other factors, directly impact sales. This will help in making data-driven decisions and optimizing marketing strategies.
+The *games_sales.ipynb* notebook provided above contains the complete code for data cleaning and wrangling, creating visualizations, and conducting further analyses.
 
-The *games_sales.ipynb* notebook includes the full code for data cleaning and wrangling, creating data visualizations, and performing additional analyses.
+### What was done:
+Historical video game sales data was analyzed to identify patterns and understand the factors influencing a game's commercial success. The dataset from 2016 was used to build forecasts for 2017. The analysis included data cleaning, exploratory data analysis, correlation studies, and visualizations.
 
-## Relevant results
-**Key Time Periods:**
-- Significant increase in the number of games released begins in 2002.
+### Objective:
+To determine which game attributes (e.g., genre, platform, review scores) most significantly affect sales, enabling predictions of future hits and more effective, data-driven marketing strategies.
 
-![image](https://github.com/user-attachments/assets/22e3d24d-a19e-428e-a617-2c7e0978f829)
-- **2005 marks the start of a relevant period for modeling data toward 2017**, with platforms still active in 2015 emerging during this time.
+### Results:
+- Key Time Periods: A noticeable increase in game releases starts in 2002. 2005 marks the emergence of platforms still active in 2015, making it a useful starting point for forecasting 2017 trends.
+- Platform Popularity: In 2002, the top platforms were PS2, X360, Wii, PS3, and DS. By 2015, the order shifted, indicating changing platform dominance and the decline of PS2.
+- Projected 2017 Relevance: Game life cycles average around 10 years. PS4, being among the top platforms in 2016, is expected to remain relevant in 2017.
 
-![image](https://github.com/user-attachments/assets/f04c0523-efce-4ae3-ba3b-b94fe72f8f91)
-  
-**Platform Popularity:**
-- In 2002, top 5 platforms: PS2, X360, Wii, PS3, and DS.
-- Platforms that are still relevant in 2015 are emerging in 2005, so the **order of popularity has changed: X360, Wii, PS3, DS and PS2**. Which means that the PS2's popularity peaks earlier, becoming less popular in 2015.
+### Correlation Analysis:
+- Critic scores show a strong positive correlation with total sales for Wii, PS2, and PS4.
+- User scores show a weaker or negligible correlation, especially on PS4.
+- Genre Influence on Sales: Action, sports, and shooter games consistently generate higher sales across top platforms.
 
-![image](https://github.com/user-attachments/assets/dc681259-2f74-4d42-8ee4-51190beb2ea7)
+### Tools & Languages Used:
+- Languages: Python
+- Environment: Jupyter Notebook
+- Libraries: Pandas, Matplotlib, Seaborn, NumPy
 
-**Projected Relevance for 2017:**
-- Data suggests that the average **life cycle of games is 10 years**.
-- Based on that, analysis of top 10 best-selling games suggests PS4 will remain relevant in 2017.
-  
-**Correlation Analysis:**
-- Positive correlation observed between critic scores and total sales for Wii, PS2, and PS4, indicating that **higher critic scores positively influence total sales**.
-- A **weaker positive correlation observed between user ratings and total sales** for Wii, PS2, with an almost null correlation for PS4.
-  
-![image](https://github.com/user-attachments/assets/e80e3308-1b49-46a8-9cee-b4754f3d2691)
-![image](https://github.com/user-attachments/assets/5e3e5954-08de-45ad-a4df-76eea403b13a)
-![image](https://github.com/user-attachments/assets/f34c1db0-bbd3-44ee-90d7-fb7c17960989)
+### Possible Improvements & Next Steps:
 
-**Platform Genre Investment and Sales:**
-- Platforms focusing on **action, sports, and shooter genres tend to have higher total sales** compared to others.
-  
-![image](https://github.com/user-attachments/assets/df1024aa-4a41-408c-adac-a46a175828ce)
-
+- Incorporate machine learning models for sales prediction.
+- Include additional data sources like regional trends, or social media sentiment.
+- Extend analysis to post-2017 data for validation and refinement of predictive models.
+- Explore genre popularity trends by region to better target campaigns.
