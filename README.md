@@ -19,7 +19,7 @@ To determine which game attributes (e.g., genre, platform, review scores) most s
 
 ### Tools & Languages Used:
 - Languages: Python
-- Environment: Jupyter Notebook
+- Workspace: Jupyter Notebook
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn and  scipy.stats
 
 ### Possible Improvements & Next Steps:
