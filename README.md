@@ -8,14 +8,9 @@ Historical video game sales data was analyzed to identify patterns and understan
 To determine which game attributes (e.g., genre, platform, review scores) most significantly affect sales, enabling predictions of future hits and more effective, data-driven marketing strategies.
 
 ### Results:
-- Key Time Periods: A noticeable increase in game releases starts in 2002. 2005 marks the emergence of platforms still active in 2015, making it a useful starting point for forecasting 2017 trends.
-- Platform Popularity: In 2002, the top platforms were PS2, X360, Wii, PS3, and DS. By 2015, the order shifted, indicating changing platform dominance and the decline of PS2.
-- Projected 2017 Relevance: Game life cycles average around 10 years. PS4, being among the top platforms in 2016, is expected to remain relevant in 2017.
-
-### Correlation Analysis:
-- Critic scores show a strong positive correlation with total sales for Wii, PS2, and PS4.
-- User scores show a weaker or negligible correlation, especially on PS4.
-- Genre Influence on Sales: Action, sports, and shooter games consistently generate higher sales across top platforms.
+- Impact of Reviews on Sales: Critic scores show a strong positive correlation with total sales across Wii, PS2, and PS4, while user scores are less predictive
+- Genre Influence on Revenue: Action, sports, and shooter genres consistently generate higher sales.
+- Platform and Lifecycle Trends: Analysis of historical data revealed shifts in platform popularity over time, with PS2 peaking earlier and PS4 expected to remain relevant in 2017, reflecting typical 10-year game lifecycles.
 
 ### Tools & Languages Used:
 - Languages: Python
