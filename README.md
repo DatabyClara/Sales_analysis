@@ -8,9 +8,9 @@ Historical video game sales data was analyzed to identify patterns and understan
 To determine which game attributes (e.g., genre, platform, review scores) most significantly affect sales, enabling predictions of future hits and more effective, data-driven marketing strategies.
 
 ### Results:
-- Impact of Reviews on Sales: Critic scores show a strong positive correlation with total sales across Wii, PS2, and PS4, while user scores are less predictive
-- Genre Influence on Revenue: Action, sports, and shooter genres consistently generate higher sales.
-- Platform and Lifecycle Trends: Analysis of historical data revealed shifts in platform popularity over time, with PS2 peaking earlier and PS4 expected to remain relevant in 2017, reflecting typical 10-year game lifecycles.
+- **Impact of Reviews on Sales**: Critic scores show a strong positive correlation with total sales across Wii, PS2, and PS4, while user scores are less predictive
+- **Genre Influence on Revenue**: Action, sports, and shooter genres consistently generate higher sales.
+- **Platform and Lifecycle Trends**: Analysis of historical data revealed shifts in platform popularity over time, with PS2 peaking earlier and PS4 expected to remain relevant in 2017, reflecting typical 10-year game lifecycles.
 
 ### Tools & Languages Used:
 - Languages: Python
